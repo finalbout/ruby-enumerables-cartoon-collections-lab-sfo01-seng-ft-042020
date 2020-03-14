@@ -6,8 +6,7 @@ puts #{ i + 1} + #{name} "}
   
 
   
-  # code an argument here
-  # Your code here
+
 end
 
 def summon_captain_planet# code an argument here
