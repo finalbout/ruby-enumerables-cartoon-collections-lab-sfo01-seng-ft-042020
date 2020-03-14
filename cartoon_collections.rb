@@ -1,4 +1,4 @@
-def roll_call_dwarves
+def roll_call_dwarves(dwarves)
  dwarves = %w[
   Doc
   Dopey
