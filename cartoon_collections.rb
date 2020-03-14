@@ -1,6 +1,6 @@
-def roll_call_dwarves(snowwhite)
+def roll_call_dwarves
   snowwhite = %w[
-  Dopey 
+   Dopey 
   Bashful 
   Grump
   ]
