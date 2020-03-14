@@ -1,13 +1,10 @@
 def roll_call_dwarves(dwarves)
- dwarves = %w[
-  1.Doc
-  2Dopey
-  Bashful
-  Grumpy
-  Sneezy
-  Sleepy
-  Happy
-]
+   i = 0 
+  while i < array.length 
+    puts "#{i + 1}. #{array[i]}"
+    i += 1 
+  end 
+end
   
   # code an argument here
   # Your code here
