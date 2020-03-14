@@ -1,4 +1,8 @@
 def roll_call_dwarves(snowwhite)
+  snowwhite = %w{
+    
+  }
+  
   # code an argument here
   # Your code here
 end
