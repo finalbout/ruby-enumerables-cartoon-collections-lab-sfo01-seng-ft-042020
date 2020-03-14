@@ -1,5 +1,5 @@
 def roll_call_dwarves(snowwhite)
-  snowwhite = %w{
+  snowwhite = %w{ Doc 
     
   }
   
