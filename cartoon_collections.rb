@@ -1,6 +1,6 @@
 def roll_call_dwarves(snowwhite)
   snowwhite = %w{ Doc 
-    
+  Dopey Bashful Grump
   }
   
   # code an argument here
