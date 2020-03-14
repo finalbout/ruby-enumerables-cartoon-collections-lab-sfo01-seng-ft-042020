@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)
  dwarves = %w[
-  Doc
-  Dopey
+  1.Doc
+  2Dopey
   Bashful
   Grumpy
   Sneezy
