@@ -1,5 +1,6 @@
 def roll_call_dwarves(snowwhite)
-  snowwhite = %w[ Doc 
+  snowwhite = %w[ 
+  Doc 
   Dopey 
   Bashful 
   Grump
