@@ -2,7 +2,7 @@ def roll_call_dwarves(dwarves)
 
 i = 0 
 dwarves.each_with_index {|name,i|} 
-puts #{
+puts #{ i + 1} +
   
 
   
