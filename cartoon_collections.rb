@@ -1,9 +1,13 @@
 def roll_call_dwarves
-  snowwhite = %w[
-   Dopey 
-  Bashful 
-  Grump
-  ]
+ dwarves = %w[
+  Doc
+  Dopey
+  Bashful
+  Grumpy
+  Sneezy
+  Sleepy
+  Happy
+]
   
   # code an argument here
   # Your code here
